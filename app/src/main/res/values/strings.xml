@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Travel Paris</string>
+    <string name="article_image_transition" translatable="false">image transition</string>
+
+    <string name="string_tours">City walking tours</string>
+    <string name="string_spend_day">Spend a day as a Parisian</string>
+    <string name="string_best_attractions">Best attractions</string>
+    <string name="string_things_to_do_in_paris"><b>Things to do in Paris</b></string>
+
+
+    <string name="tour_paris_in_one_day">Paris in one day</string>
+    <string name="tour_paris_in_one_day_description">
+        "You’ll begin your tour at the spectacular Louvre Museum, regarded as one of the finest "
+        "gallery collections in the world. Get a front-row peek at world-famous treasures like "
+        "the Mona Lisa and the Venus de Milo, and learn about the turbulent history of the "
+        "building as a medieval fortress and 14th-century royal palace.\n\n"
+
+        "After touring the museum, you’ll hop a boat to cruise the Seine River toward another "
+        "iconic site, the Eiffel Tower. Head to the 58 Tour Eiffel Restaurant—located inside "
+        "the tower— for a luxurious French lunch while enjoying panoramic views of the city.\n\n"
+
+        "After enjoying the City of Light’s most famous monument, you’ll head to the water a second "
+        "time for another scenic boat ride, this time headed to the spectacular Notre Dame Cathedral. "
+        "See the famous stone-cut gargoyles and hear about the building’s incredible history. "
+        "You’ll even have a chance to climb the tower for another unforgettable view of "
+        "the French capital".
+    </string>
+    <string name="tour_paris_illuminations_of_paris_night">Illuminations of Paris night</string>
+    <string name="tour_paris_illuminations_of_paris_night_description">
+        "Paris is beautiful by day and breathtaking by night. We’ll show you why Paris is known "
+        "as the “City of Light” as we visit the brilliantly illuminated monuments of the city "
+        "brought to life against the backdrop of the dramatic night sky… a truly romantic way"
+        "to experience Paris.\n\n"
+
+        "The landmarks and monuments of the city will be enjoyed from the comfort of a luxury "
+        "air-conditioned double-decker bus. Special evening audio commentary will play to provide "
+        "background information about each sight in your choice of 16 languages."
+    </string>
+    <string name="day_paris_eating">Eating time</string>
+    <string name="day_paris_eating_description">
+        "Since it is the capital of France, you may think that Paris is full of stressed and busy "
+        "persons only eating a sandwich for lunch. But that is not exactly true. Even though "
+        "the Parisians are often busy, they take the time to have lunch and dinner.\n\n"
+
+        "Indeed, a French person normally takes 1 hours and 22 minutes a day on average to eat, "
+        "which is more than in any European country. Plus, a Parisian generally takes the time to "
+        "sit down at least once a day to have lunch or dinner. Don’t underestimate the importance "
+        "of this aspect of Parisian culture!"
+    </string>
+    <string name="day_paris_shopping">Shopping in Paris</string>
+    <string name="day_paris_shopping_description">
+
+    </string>
+    <string name="attractions_paris_eiffel_tower">Eiffel Tower</string>
+    <string name="attractions_paris_eiffel_tower_description">
+        "One of the most famous landmarks in the world, the Eiffel Tower (la Tour Eiffel) "
+        "symbolizes Paris. Before arriving here, visitors have a vivid image of this monument as "
+        "seen in a postcard, movie, or on a keychain, yet the Eiffel Tower still manages to amaze. "
+        "This masterpiece of architectural achievement soars to a height of 320 meters. A feat of "
+        "ingenuity, the structure of 8,000 metallic parts is held together by 2.5 million rivets. "
+        "Despite its massive weight, the Eiffel Tower has an airy lattice construction with the "
+        "seeming lightness of a ballerina on point. The graceful tower is also known as the "
+        "\"Iron Lady.\"\n\n"
+
+        "Gustave Eiffel created the tower as a temporary exhibit for the Exposition Universelle "
+        "(World's Fair) in 1889. At the time, it was considered an eyesore. Prominent writers "
+        "and artists, including Charles Garnier and Alexandre Dumas, protested against its "
+        "presence. Though the tower was only intended to last for 20 years, its usefulness as a "
+        "radio antenna ensured its survival. The Eiffel Tower has become the most recognized "
+        "feature of the Paris skyline, and for tourists a visit is one of the most popular things "
+        "to do in the city."
+    </string>
+    <string name="attractions_paris_louvre_museum">Louvre Museum</string>
+    <string name="attractions_paris_louvre_museum_description">
+        "Visit the palace of French kings to admire some of the world's finest art. The Louvre "
+        "holds many of Western Civilization's most famous masterpieces, including the Mona Lisa by "
+        "Leonardo da Vinci, and is one of the top things to do in Paris. A large number of the "
+        "museum's paintings were owned by the various kings who lived in the Louvre when it was a "
+        "royal residence, other pieces were acquired through France's treaties with the Vatican "
+        "and the Venetian Republic, and the collection was further enriched by the spoils of "
+        "Napoléon I.\n\n"
+
+        "The museum packs 30,000 artworks into a 60,000-square-meter exhibition space in three "
+        "sections: the Denon, Richelieu, and Sully wings. Each wing has more than 70 rooms "
+        "displaying paintings and objects of art, plus there are enormous halls filled with "
+        "sculptures. It's impossible to see the entire collection in one day or even in a week. "
+        "To get the most out of your time spent at the Louvre, focus on a checklist of essential "
+        "art works using this guide."
+    </string>
+</resources>
