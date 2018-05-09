@@ -17,7 +17,6 @@ import android.widget.TextView;
 
 import com.example.travelparis.R;
 import com.example.travelparis.mvp.models.Article;
-import com.example.travelparis.tools.Base64Formatter;
 import com.example.travelparis.ui.activities.DetailsActivity;
 
 import java.util.List;
